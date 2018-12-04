@@ -1,0 +1,13 @@
+
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ãòú½÷,
+dsquid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ãòú½÷,
+Ksquid:S1604"(Make this anonymous inner class a lambda(ºĞŒÆÿÿÿÿÿ8ãòú½÷,
+]squid:S1854":Remove this useless assignment to local variable "future".(®ˆòüÿÿÿÿ8°‡ü½÷,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ò í½÷,
+dsquid:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ê”’¾÷,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(³« üÿÿÿÿ8ò í½÷,
+Nsquid:S1481"+Remove this unused "future" local variable.(®ˆòüÿÿÿÿ8°‡ü½÷,
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(àÓ¨¨8Ü‰±¾÷,
