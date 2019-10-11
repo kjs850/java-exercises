@@ -68,3 +68,17 @@ R
 "src/main/java/hadoop/HdfsTest.java,9/1/91a46a4575f41e52d5f12ee42de9df197abbeb44
 V
 &src/main/java/optional/OfNullable.java,d/e/dee0c222a5d94565ec09b9d894f93e06de74acac
+X
+(gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+X
+(src/main/java/optional/JavaGuides_1.java,c/9/c904fb1028454c5344c33f123dfb1036353fd6f3
+X
+(src/main/java/optional/JavaGuides_2.java,4/9/493781996ad894aa4aa8d4b85df39437a61c0563
+l
+<src/main/java/method_reference/ReferenceToStaticMethod2.java,8/1/816d5175b045dee209c4f3662131614d65521233
+Y
+)src/main/java/method_reference/Test1.java,8/3/83b0c9904419acfee14a93e88ceb3742285e1629
+R
+"src/main/java/date_time/Test1.java,0/a/0ae5552a1df48dfc7a53ef4d786a0aac957f8f6e
+X
+(src/main/java/date_time/FormatTest1.java,6/f/6f28eee71f75f38cfa74169c53ca621adc0415a7
