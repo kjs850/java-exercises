@@ -82,3 +82,15 @@ R
 "src/main/java/date_time/Test1.java,0/a/0ae5552a1df48dfc7a53ef4d786a0aac957f8f6e
 X
 (src/main/java/date_time/FormatTest1.java,6/f/6f28eee71f75f38cfa74169c53ca621adc0415a7
+R
+"src/main/java/date_time/Test2.java,b/c/bc4159a3ae91e1f0a590db1986205a619945c7d8
+a
+1src/main/java/fn/FunctionalInterfacesExample.java,1/5/150c4d3d7f9b5049c427ff01de93664ccc405b14
+M
+src/main/java/fn/Sayable.java,f/a/faf88be61f561492b3e1932e22d8b1494196c44a
+V
+&src/main/java/fn/PredicateExample.java,1/9/19aea0a24ba7b40246887e7573143c9fe7e7de29
+L
+src/main/java/fn/Person.java,0/6/06daf7d0847c5fe248206ed5460b754f8da0c82c
+U
+%src/main/java/fn/FunctionExample.java,2/b/2beefe7ecc8cab896bd03f5dbe2cba472575b240
