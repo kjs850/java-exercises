@@ -16,11 +16,19 @@ public class MobileService {
 //        }
 //        return 0;
 //    }
+
     public int getMobileScreenWidth(Optional<Mobile> mobile){
         return mobile.flatMap(Mobile::getDisplayFeatures)
-                .flatMap(x-> x.getResolution())
-                .map(ScreenResolution::getWidth)
+                .flatMap(DisplayFeatures::getResolution)
+                .map(x -> x.getWidth())
                 .orElse(0);
+
+
+
+//        return mobile.flatMap(Mobile::getDisplayFeatures)
+//                .flatMap(x-> x.getResolution())
+//                .map(ScreenResolution::getWidth)
+//                .orElse(0);
 
     }
 }

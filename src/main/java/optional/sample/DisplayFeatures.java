@@ -15,6 +15,7 @@ public class DisplayFeatures {
     public String getSize() {
         return size;
     }
+
     public Optional<ScreenResolution> getResolution() {
         return resolution;
     }

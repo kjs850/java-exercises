@@ -94,3 +94,19 @@ L
 src/main/java/fn/Person.java,0/6/06daf7d0847c5fe248206ed5460b754f8da0c82c
 U
 %src/main/java/fn/FunctionExample.java,2/b/2beefe7ecc8cab896bd03f5dbe2cba472575b240
+X
+(src/main/java/fn/BiConsumersExample.java,4/f/4fc653aad04533aa4a12e8c9e4c5265038b12de5
+W
+'src/main/java/fn/BiFunctionExample.java,5/7/5787d25975633483300384754b66cbcdd2b9442e
+V
+&src/main/java/fn/ConsumersExample.java,0/2/022199adfb8aca0268c01845e861c155253e6556
+V
+&src/main/java/fn/SuppliersExample.java,3/0/30e4d3850750ebcce7a983f536703ad379ecc4d9
+[
++src/main/java/stream/JavaStreamExample.java,f/e/fe8ccc0284befb9eb18a7f7b72712dd8965e933b
+b
+2src/main/java/stream/JavaWithoutStreamExample.java,8/1/81bce2b68365948329a3075d2cd5ca6d2d0c584a
+Q
+!src/main/java/stream/Product.java,4/8/48ff4f614ffe8300ed66d1ad675cc7b8aa675973
+^
+.src/main/java/stream/FindMaxAndMinMethods.java,0/a/0ab00748a0b60615bdc99cd43f69ad8ad07421a5
